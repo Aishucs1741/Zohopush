@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\ZohoPush\ZohoPush\obj\Debug\ZohoPush.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ZohoPush\ZohoPush\obj\Debug\ZohoPush.csproj.CoreCompileInputs.cache
